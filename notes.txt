@@ -1,0 +1,8 @@
+notes of this repo-
+step 1 : writing your code in code editor in local machine.
+step 2 : adding remote origin using command "git remote origin add <link>. (use https).
+"git remote -v" to verify remote origin
+"git branch" to check branch
+"git branch -M name" to change branch name.
+"git push -u origin main" to create shortcut to directly upload changes to git using git push insted of git push origin main.
+to change the remote origin link use "git remote set-url origin <link>".
